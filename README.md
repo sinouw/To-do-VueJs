@@ -1,4 +1,4 @@
-# todo-vue
+# Todo-VueJS
 
 > A Vue.js project
 
